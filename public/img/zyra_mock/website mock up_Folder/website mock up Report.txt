@@ -1,0 +1,409 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: website mock up.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: pixels
+Artboard Dimensions: 841.89 px x 595.28 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Quicksand Regular (OTF)
+Quicksand Bold (OTF)
+Avenir Medium (TrueType)
+Avenir Black (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/lamchunyu/Desktop/3_Fonteinen_Oude_Geuze_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Bumaye_2013_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/Anderson_Valley_Pinchy_Jeek_Barl_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Hopwired_New_Label_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/sm-art-beer5-20130111101529513343-620x0.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 633K, 620 by 349 pixels
+Dimensions: 223.659 by 125.899 points 
+Resolution: 199.589 by 199.589 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Hopwired_New_Label_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/3_Fonteinen_Oude_Geuze_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 95.308 by 92.194 points 
+Resolution: 604.355 by 624.772 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Lord_of_the_Atlas_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/Anderson_Valley_Pinchy_Jeek_Barl_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.498 by 92.498 points 
+Resolution: 622.714 by 622.714 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Bumaye_2013_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.194 points 
+Resolution: 624.085 by 624.772 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Hopwired_New_Label_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/3_Fonteinen_Oude_Geuze_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 95.308 by 92.194 points 
+Resolution: 604.355 by 624.772 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Lord_of_the_Atlas_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Bumaye_2013_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/Anderson_Valley_Pinchy_Jeek_Barl_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/Anderson_Valley_Pinchy_Jeek_Barl_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.498 by 92.498 points 
+Resolution: 622.714 by 622.714 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Bumaye_2013_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Hopwired_New_Label_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/3_Fonteinen_Oude_Geuze_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 122.084 by 122.084 points 
+Resolution: 471.805 by 471.805 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Lord_of_the_Atlas_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Bumaye_2013_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/Anderson_Valley_Pinchy_Jeek_Barl_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Hopwired_New_Label_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/3_Fonteinen_Oude_Geuze_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Lord_of_the_Atlas_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 122.313 by 122.313 points 
+Resolution: 470.925 by 470.925 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Hopwired_New_Label_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 121.433 by 121.433 points 
+Resolution: 474.337 by 474.337 pixels per inch
+
+
+/Users/lamchunyu/Desktop/3_Fonteinen_Oude_Geuze_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Lord_of_the_Atlas_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Lord_of_the_Atlas_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 313.793 by 313.793 points 
+Resolution: 183.561 by 183.561 pixels per inch
+
+
+/Users/lamchunyu/Desktop/Anderson_Valley_Pinchy_Jeek_Barl_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.498 by 92.498 points 
+Resolution: 622.714 by 622.714 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Bumaye_2013_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.194 points 
+Resolution: 624.085 by 624.772 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Hopwired_New_Label_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/3_Fonteinen_Oude_Geuze_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 95.308 by 92.194 points 
+Resolution: 604.355 by 624.772 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Lord_of_the_Atlas_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/Anderson_Valley_Pinchy_Jeek_Barl_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.498 by 92.498 points 
+Resolution: 622.714 by 622.714 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Bumaye_2013_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.194 points 
+Resolution: 624.085 by 624.772 pixels per inch
+
+
+/Users/lamchunyu/Desktop/3_Fonteinen_Oude_Geuze_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Hopwired_New_Label_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/Anderson_Valley_Pinchy_Jeek_Barl_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Bumaye_2013_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 92.295 by 92.295 points 
+Resolution: 624.085 by 624.085 pixels per inch
+
+
+/Users/lamchunyu/Desktop/8Wired_Lord_of_the_Atlas_800x.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1875K, 800 by 800 pixels
+Dimensions: 313.793 by 313.793 points 
+Resolution: 183.561 by 183.561 pixels per inch
